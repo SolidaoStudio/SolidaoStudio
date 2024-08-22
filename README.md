@@ -3,9 +3,8 @@ Seja bem vindo a Nice Studio!
 Meu perfil profissional onde posto meus trabalhos 🎨
 
 - 🔭 Buscando emprego
-- 🌱 Estudando C 
+- 🌱 Estudando Back-End 
 - 💬 Contate-me : Luans.Almeida@outlook.com
-- 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Posto diferentes tipos de artes no insta
 
 <div>
