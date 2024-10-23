@@ -18,14 +18,18 @@ Meu perfil profissional onde posto meus trabalhos 🎨
 
 ---
 
-### Linguagens
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  <img alt="HTML5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="NiceStudio-pic" height="150" src="https://cdn.discordapp.com/attachments/1080580959973417030/1087983644188098610/download20230303031820.png?ex=6719e6ba&is=6718953a&hm=35368d89df8e165bbc452236bda88d3d1fea7de01775ed5951caa943ebe95b87&">
-</div>
+### Linguagens e Ferramentas
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <div>
+      <img alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+      <img alt="HTML5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+      <img alt="CSS3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+      <img alt="JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+      <img alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+      <img alt="Visual Studio Code" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+        <img align="right" alt="NiceStudio-pic" height="150" src="https://cdn.discordapp.com/attachments/1080580959973417030/1087983644188098610/download20230303031820.png?ex=6719e6ba&is=6718953a&hm=35368d89df8e165bbc452236bda88d3d1fea7de01775ed5951caa943ebe95b87&">
+    </div>
+  </div>
 
 ---
 
