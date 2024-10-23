@@ -14,6 +14,8 @@ Meu perfil profissional onde posto meus trabalhos 🎨
  <div>
  <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ccss/css-plain.svg">
+   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <img align="right" alt="nice-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1080580959973417030/1087983644188098610/download20230303031820.png?width=576&height=576">
 </div>
    
