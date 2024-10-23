@@ -11,8 +11,8 @@ Meu perfil profissional onde posto meus trabalhos 🎨
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://beacons.ai/nice._.studio">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=T-NiceStudio-T&count_private=true&theme=graywhite&hide=contribs,prs&show_icons=true" alt="NiceStudio GitHub Stats"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-NiceStudio-T&layout=compact&theme=graywhite" alt="Linguagens mais usadas"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=T-NiceStudio-T&count_private=true&theme=graywhite&hide=contribs,prs&show_icons=true" alt="NiceStudio GitHub Stats"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-NiceStudio-T&layout=compact&theme=graywhite" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
