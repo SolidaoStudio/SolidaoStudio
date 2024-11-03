@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luan 👋
 Seja bem-vindo ao meu Perfil!  
-Aqui posto meus Projetos e Repositórios 🎨 <br>
-Sinta-se à vontade para explorar e acompanhar meu trabalho!✨
+Aqui posto meus Projetos e Repositórios <br>
+Sinta-se à vontade para explorar e acompanhar meu trabalho!
 
 - 🌱 **Estudando** : Back-End
 - 💬 **Contate-me** : [Luans.Almeida@outlook.com](mailto:Luans.Almeida@outlook.com)
