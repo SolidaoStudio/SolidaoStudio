@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Luan 👋
-Seja bem-vindo ao meu Perfil!  
+Seja bem-vindo ao meu Studio!  
 Aqui posto meus Projetos e Repositórios <br>
 Sinta-se à vontade para explorar e acompanhar meu trabalho!
 
