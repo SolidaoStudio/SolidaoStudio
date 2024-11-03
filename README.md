@@ -33,7 +33,7 @@ Aqui posto meus Projetos e Repositórios 🎨
 
 ### Redes Sociais
 <div align="left">
-  <a href="https://instagram.com/nice._.studio" target="_blank">
+  <a href="https://instagram.com/solidaostudio" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.beacons.ai/Nice._.Studio" target="_blank">
