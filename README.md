@@ -1,6 +1,7 @@
-### Olá! Eu sou o Luan Silva👋
-Seja bem-vindo ao meu Estudio!  
+### Olá! Eu sou o Luan 👋
+Seja bem-vindo ao meu Perfil!  
 Aqui posto meus Projetos e Repositórios 🎨
+Sinta-se à vontade para explorar e acompanhar meu trabalho!✨
 
 - 🌱 **Estudando** : Back-End
 - 💬 **Contate-me** : [Luans.Almeida@outlook.com](mailto:Luans.Almeida@outlook.com)
