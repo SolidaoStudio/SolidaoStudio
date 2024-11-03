@@ -1,11 +1,10 @@
-### Olá! Eu sou o Luan Almeida 👋
-Seja bem-vindo ao **Nice Studio**!  
-Meu perfil profissional onde posto meus trabalhos 🎨
+### Olá! Eu sou o Luan 👋
+Seja bem-vindo ao meu Estudio!  
+Aqui posto meus Projetos e Repositórios 🎨
 
-- 🔭 **Buscando emprego**
-- 🌱 **Estudando Back-End**
-- 💬 **Contate-me**: [Luans.Almeida@outlook.com](mailto:Luans.Almeida@outlook.com)
-- ⚡ **Fun fact**: Posto diferentes tipos de artes no [Instagram](https://instagram.com/nice._.studio)
+- 🌱 **Estudando** : Back-End
+- 💬 **Contate-me** : [Luans.Almeida@outlook.com](mailto:Luans.Almeida@outlook.com)
+- ⚡ **Fun fact** : Posto diferentes tipos de artes no [Instagram](https://instagram.com/nice._.studio)
 
 ---
 
