@@ -4,7 +4,6 @@ Aqui posto meus Projetos e Repositórios 🎨
 
 - 🌱 **Estudando** : Back-End
 - 💬 **Contate-me** : [Luans.Almeida@outlook.com](mailto:Luans.Almeida@outlook.com)
-- ⚡ **Fun fact** : Posto diferentes tipos de artes no [Instagram](https://instagram.com/nice._.studio)
 
 ---
 
