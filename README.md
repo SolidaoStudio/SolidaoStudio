@@ -6,6 +6,18 @@ Sinta-se à vontade para explorar e acompanhar meu trabalho!
 - 🌱 **Estudando** : Back-End
 - 💬 **Contate-me** : [Luans.Almeida@outlook.com](mailto:Luans.Almeida@outlook.com)
 
+### Redes Sociais
+<a href="https://instagram.com/solidaostudio" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.beacons.ai/Nice._.Studio" target="_blank">
+  <img src="https://img.shields.io/badge/-NiceStudio-lightgrey?style=flat" alt="Beacons Nice Studio">
+</a>
+<a href="https://youtube.com/@solidaostudio" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+
 ---
 
 <div style="display: flex; justify-content: space-between;">
@@ -26,18 +38,9 @@ Sinta-se à vontade para explorar e acompanhar meu trabalho!
       <img alt="JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
       <img alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <img alt="Visual Studio Code" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-        <img align="right" alt="NiceStudio-pic" height="150" src="https://cdn.discordapp.com/attachments/1080580959973417030/1087983644188098610/download20230303031820.png?ex=6719e6ba&is=6718953a&hm=35368d89df8e165bbc452236bda88d3d1fea7de01775ed5951caa943ebe95b87&">
+      <img align="right" alt="NiceStudio-pic" height="150" src="https://cdn.picrew.me/shareImg/org/202411/1473879_bbKgsLVg.png">
     </div>
   </div>
 
 ---
 
-### Redes Sociais
-<div align="left">
-  <a href="https://instagram.com/solidaostudio" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.beacons.ai/Nice._.Studio" target="_blank">
-    <img src="https://img.shields.io/badge/-NiceStudio-lightgrey?style=for-the-badge" alt="Beacons Nice Studio">
-  </a>
-</div>
