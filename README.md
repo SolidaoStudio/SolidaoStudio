@@ -38,7 +38,7 @@ Sinta-se à vontade para explorar e acompanhar meu trabalho!
       <img alt="JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
       <img alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <img alt="Visual Studio Code" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-      <img align="right" alt="NiceStudio-pic" height="150" src="https://cdn.picrew.me/shareImg/org/202411/1473879_bbKgsLVg.png">
+      <img align="right" alt="SolidaoStudio-pic" height="150" src="https://cdn.picrew.me/shareImg/org/202411/1473879_GKqMHmVU.png">
     </div>
   </div>
 
