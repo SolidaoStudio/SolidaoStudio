@@ -3,7 +3,7 @@ Welcome to my Studio!
 Here I post my Projects and Repositories.  
 Feel free to explore and follow my work!
 
-- 🌱 **Studying**: Back-End
+- 🌱 **Studying**: Front-End
 - 💬 **Contact Me**: [Luans.Almeida@outlook.com](mailto:Luans.Almeida@outlook.com)
 
 <a href="https://instagram.com/solidaostudio" target="_blank">
